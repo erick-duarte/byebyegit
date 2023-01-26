@@ -1,2 +1,2 @@
 # byebyegit
-Script que identifica exposição do .git em dominios
+script para identificar **git exposed** em multiplos dominios.
